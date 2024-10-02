@@ -6,7 +6,9 @@
 - Create a circuit to light up 3 light bulbs - *Remember each 3V coin battery is equivalent to a GPIO pin on your Raspberry Pi*
 - Take a screenshot of your circuit
 
-- [ ] Take a screenshot of your circuit and upload it to this repository 
+- [x] Take a screenshot of your circuit and upload it to this repository
+![Screenshot from 2024-09-27 10-25-17](https://github.com/user-attachments/assets/40f0b2f8-8c5a-4299-9646-4266a60bca53)
+
 ## Part II - Python3
 
 - Redo part I with real components; however, for your power source, use GPIO pins on your Raspberry Pi. _Turn off your Pi when connecting cables to the GPIO ports._
@@ -15,7 +17,10 @@
 - Add comments to your Python script to explain how it works.
 - Take a short video of your stoplight working and a clear top-down photo of your wiring
 
-- [ ] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
+- [x] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
+https://github.com/user-attachments/assets/c58fba4c-b5de-4b9d-ba56-f3878bfaf783
+![image_67191297](https://github.com/user-attachments/assets/152ee703-cd6b-43ee-af45-e7c4c9959815)
+
 
 ## Part III - RBG LED  
 
@@ -25,7 +30,9 @@
 - Add comments to your Python script to explain how it works.
 - Take a clear top-down photo of your wiring
 
-- [ ] Upload `rgb_stoplight.py` and your photo then continue to Part IV
+- [x] Upload `rgb_stoplight.py` and your photo then continue to Part IV
+![image_67186945](https://github.com/user-attachments/assets/a407dc54-4bdf-48fd-9856-e12605a4b799)
+
 ## Part IV - Starting with a Button
 
 - In a new script `button_stoplight.py`, add a button or touch module to your project to start your RGB stoplight. When the button is pressed the light should light up in the green, yellow, red pattern.
@@ -33,7 +40,12 @@
 - In order to use a button, set the `S` pin to an input with `GPIO.setup(pin_number, GPIO.IN)`. It the button is pressed, `GPIO.input(pin_number)` will be equal to 0. If it is unpressed, `GPIO.input(pin_number)` will be equal to 1.
 - Take a short video of your button starting the stoplight and the pattern appearing correctly
 
-- [ ] Upload `button_stoplight.py`  and the video to this repository then continue to Part V - Wrap Up
+- [x] Upload `button_stoplight.py`  and the video to this repository then continue to
+Part V - Wrap Up
+https://github.com/user-attachments/assets/2c93a904-1e0e-4eaa-b06a-38ff654163bc
+
+
+
 ## Part V - Wrap Up
 
 - Make sure all the deliverables above are  uploaded to the repository
