@@ -18,7 +18,9 @@
 - Take a short video of your stoplight working and a clear top-down photo of your wiring
 
 - [x] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
+      
 https://github.com/user-attachments/assets/c58fba4c-b5de-4b9d-ba56-f3878bfaf783
+
 ![image_67191297](https://github.com/user-attachments/assets/152ee703-cd6b-43ee-af45-e7c4c9959815)
 
 
@@ -42,8 +44,8 @@ https://github.com/user-attachments/assets/c58fba4c-b5de-4b9d-ba56-f3878bfaf783
 
 - [x] Upload `button_stoplight.py`  and the video to this repository then continue to
 Part V - Wrap Up
-https://github.com/user-attachments/assets/2c93a904-1e0e-4eaa-b06a-38ff654163bc
 
+https://github.com/user-attachments/assets/2c93a904-1e0e-4eaa-b06a-38ff654163bc
 
 
 ## Part V - Wrap Up
