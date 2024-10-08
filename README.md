@@ -55,10 +55,16 @@ https://github.com/user-attachments/assets/2c93a904-1e0e-4eaa-b06a-38ff654163bc
 
 1. What is a Python library and how do you include one in your script?
 
+   It's a project that somebody else has written and you can use for free. You can import it via "import library_name"
+   at the top of the file.
+
 2. What does it mean for elements of a circuits to be in series vs. in parallel?
+
+Series circuits seperate parts of one circuit that are connected together. Parallel circuits are seperate circuits that are not connected.
 
 3. Can you create a circuit of 3 light bulbs in series? Why or why not?
 
+Yes you can except they will have progressivly weaker light strengths because you are powering 3 lights with one powersource.
 
 ## Rubric 
 
